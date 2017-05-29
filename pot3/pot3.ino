@@ -1,7 +1,9 @@
+
 const int pot=A0;
 const int buzzer = 11;
 int durum=0;
 int cikti=0;
+int a=0;
 
 
 void setup() {
